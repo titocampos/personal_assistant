@@ -13,9 +13,9 @@ O projeto implementado utiliza o reconhecimento de voz disponibilizado pela Goog
 # Bibliotecas instaladas usando PIP:
 	
 	1. PyAudio
-		#Utilizando Python 3.7.6 - Download wheel do site https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio.
+	    #Utilizando Python 3.7.6 - Download wheel do site https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio.
 	    pip install PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl
 	2. Speech recognition
-		pip install SpeechRecognition
+	    pip install SpeechRecognition
 	3. Pyttsx3 - versão 2.7
 	    pip install pyttsx3==2.7
